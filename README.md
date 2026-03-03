@@ -1,4 +1,4 @@
-# AI Code Reviewer – Milestone 1 (Infosys Springboard)
+# AI Code Reviewer –  (Infosys Springboard)
 
 This repository contains the first milestone of the **AI Code Reviewer** project developed as part of the *Infosys Springboard* learning program.
 
